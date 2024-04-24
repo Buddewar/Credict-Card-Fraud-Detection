@@ -7,3 +7,4 @@ Utilized visualization techniques to present findings and guide feature selectio
  Employed advanced data preprocessing techniques to clean and prepare the dataset for analysis. Conducted feature engineering to extract relevant features and enhance model performance.
 
  Developed a user-friendly Graphical User Interface (GUI) using Streamlit, allowing stakeholders to interact with the fraud detection system intuitively and visualize key insights.
+![Uploading image.png…]()

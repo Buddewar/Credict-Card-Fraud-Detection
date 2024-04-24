@@ -7,4 +7,7 @@ Utilized visualization techniques to present findings and guide feature selectio
  Employed advanced data preprocessing techniques to clean and prepare the dataset for analysis. Conducted feature engineering to extract relevant features and enhance model performance.
 
  Developed a user-friendly Graphical User Interface (GUI) using Streamlit, allowing stakeholders to interact with the fraud detection system intuitively and visualize key insights.
-![Uploading image.png…]()
+
+
+![image](https://github.com/Buddewar/Credict-Card-Fraud-Detection/assets/150354367/fd0404b5-112d-4e74-a84a-1e9b58f780ae)
+
